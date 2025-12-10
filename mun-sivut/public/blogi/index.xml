@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogi on Mun kotisivut!</title>
+    <link>http://localhost:1313/blogi/</link>
+    <description>Recent content in Blogi on Mun kotisivut!</description>
+    <generator>Hugo</generator>
+    <language>fi</language>
+    <lastBuildDate>Sat, 06 Dec 2025 21:38:14 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viela vanhempi teksti</title>
+      <link>http://localhost:1313/blogi/viela-vanhempi-teksti/</link>
+      <pubDate>Sat, 06 Dec 2025 21:38:14 +0200</pubDate>
+      <guid>http://localhost:1313/blogi/viela-vanhempi-teksti/</guid>
+      <description>&lt;p&gt;« Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tosivanha teksti</title>
+      <link>http://localhost:1313/blogi/tosivanha-teksti/</link>
+      <pubDate>Sat, 06 Dec 2025 21:28:13 +0200</pubDate>
+      <guid>http://localhost:1313/blogi/tosivanha-teksti/</guid>
+      <description>&lt;p&gt;« Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vanha teksti</title>
+      <link>http://localhost:1313/blogi/vanha-teksti/</link>
+      <pubDate>Sat, 06 Dec 2025 21:27:54 +0200</pubDate>
+      <guid>http://localhost:1313/blogi/vanha-teksti/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vanha teksti</title>
+      <link>http://localhost:1313/blogi/vanha-teksti/</link>
+      <pubDate>Sat, 06 Dec 2025 21:27:44 +0200</pubDate>
+      <guid>http://localhost:1313/blogi/vanha-teksti/</guid>
+      <description>&lt;p&gt;« Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jokin teksti</title>
+      <link>http://localhost:1313/blogi/jokin-teksti/</link>
+      <pubDate>Sat, 06 Dec 2025 21:27:28 +0200</pubDate>
+      <guid>http://localhost:1313/blogi/jokin-teksti/</guid>
+      <description>&lt;p&gt;« Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eka kirjoitus</title>
+      <link>http://localhost:1313/blogi/ensimmainen-kirjoitus/</link>
+      <pubDate>Sat, 06 Dec 2025 11:49:32 +0200</pubDate>
+      <guid>http://localhost:1313/blogi/ensimmainen-kirjoitus/</guid>
+      <description>&lt;p&gt;Lorem ipsum odor amet, consectetuer adipiscing elit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

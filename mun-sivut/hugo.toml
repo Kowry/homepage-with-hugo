@@ -1,0 +1,23 @@
+baseURL = 'https://example.org/'
+languageCode = 'fi'
+title = 'Mun kotisivut!'
+theme = 'mun-teema'
+summaryLength = 20
+
+[[menus.main]]
+name = 'Koti'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Tietoa minusta'
+pageRef = '/tietoa-minusta'
+weight = 20
+
+[[menus.main]]
+name = 'Blogi'
+pageRef = '/blogi'
+weight = 30
+
+[pagination]
+pagerSize = 3

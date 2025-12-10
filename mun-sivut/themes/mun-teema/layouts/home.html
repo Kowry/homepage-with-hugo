@@ -1,0 +1,5 @@
+{{ define "main" }}
+  {{ $pieni := "TÄSSÄ KAIKKI ON PIENELLÄ" | strings.ToLower }}
+  <p>Muuttujan $pieni arvo on {{ $pieni }}</p>
+  {{ .Content }}
+{{ end }}
